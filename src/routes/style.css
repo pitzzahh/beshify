@@ -7,7 +7,7 @@ body {
 }
 
 html {
-    height: 100dvh;
+	height: 100dvh;
 }
 
 * {
@@ -59,7 +59,7 @@ p {
 	border-radius: 0.5rem;
 	margin-right: 1rem;
 	color: beige;
-    max-width: 70%;
+	max-width: 70%;
 	background-color: #919191;
 }
 
@@ -75,20 +75,24 @@ button {
 }
 
 footer {
-    margin-top: 15rem;
+	margin-top: 15rem;
 }
 
 .footer-text {
-    font-size: 14px;
-    margin: 1px;
-    padding: 1px;
+	font-size: 14px;
+	margin: 1px;
+	padding: 1px;
+}
+
+span {
+	color: #d33432;
 }
 
 @media (max-width: 600px) {
 	.content {
 		flex-direction: column;
 	}
-    button {
-        margin-top: 1rem;
-    }
+	button {
+		margin-top: 1rem;
+	}
 }
