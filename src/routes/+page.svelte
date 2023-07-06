@@ -45,8 +45,8 @@
 			</div>
 		</form>
 	</div>
+	<footer>
+		<p class="footer-text">Made with <span>&#10084;</span> by pitzzahh</p>
+		<p class="footer-text">Under Construction &#9881;</p>
+	</footer>
 </main>
-<footer>
-    <p class="footer-text">Made with <span>&#10084;</span> by pitzzahh</p>
-    <p class="footer-text">Under Construction &#9881;</p>
-</footer>
